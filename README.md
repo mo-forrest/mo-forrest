@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Monique 👋
 
-<!--
-**mo-forrest/mo-forrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **data analysis and visualizations**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **BI Analyst Portfolio Projects**.
+  
+- 🌱 I’m currently improving my proficiency in **programming languages and Business Intelligence tools**.
+   
+- 👯 I’m looking to collaborate on **BI projects**.
+  
+- 🤔 I’m looking for help with my **job search**.
+  
+- 📫 Contact me via email or LinkedIn!
+  
+- ⚡ Fun fact: My goal is to read 20 books this year!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- All of my projects are available on GitHub! View the projects I completed during my BI Analyst education and my Alumni experience here.
