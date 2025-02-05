@@ -1,17 +1,17 @@
 ## Hi there, I'm Monique 👋
 
-- 💬 Ask me about **data analysis and visualizations**.
+- 💬 Ask me about **data visualizations**.
 
-- 🔭 I’m currently working on **BI Analyst Portfolio Projects**.
+- 🔭 I’m currently working on my **BI Analyst Portfolio**.
   
-- 🌱 I’m currently improving my proficiency in **programming languages and Business Intelligence tools**.
+- 🌱 I’m currently learning new **programming languages**.
    
 - 👯 I’m looking to collaborate on **BI projects**.
   
 - 🤔 I’m looking for help with my **job search**.
   
-- 📫 Contact me via email or LinkedIn!
-  
 - ⚡ Fun fact: My goal is to read 20 books this year!
 
-- All of my projects are available on GitHub! View the projects I completed during my BI Analyst education and my Alumni experience here.
+- 📫 Contact me via [email](mailto:mforrest135@gmail.com) or LinkedIn!
+  
+- All of my projects are available on GitHub. View the projects I completed during my BI Analyst education and my Alumni experience [here](https://github.com/mo-forrest/data_projects).
