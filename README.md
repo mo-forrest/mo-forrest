@@ -14,4 +14,4 @@
 
 - 📫 Contact me via [email](mailto:mforrest135@gmail.com) or LinkedIn!
   
-- All of my projects are available on GitHub. View the projects I completed during my BI Analyst education and my Alumni experience [here](https://github.com/mo-forrest/data_projects).
+- :tent: All of my projects are available on GitHub. View the projects I completed during my BI Analyst education and my Alumni experience [here](https://github.com/mo-forrest/data_projects).
